@@ -41,3 +41,41 @@ alias portlisten='sudo lsof -i -P -n | grep LISTEN'
 alias killpid='sudo kill -9'
 alias whichzombie='ps aux | grep Z'
 alias whichzombiemore='ps -el | grep Z'
+
+gitpush() {
+  if ! git rev-parse --git-dir > /dev/null 2>&1; then
+    echo "Error detect repository"
+    return 1
+  fi
+  
+  if [[ -z $(git status -s) ]]; then
+    echo "No changes to commit"
+    return 0
+  fi
+  
+  echo "Changes detected:"
+  git status -s
+  echo ""
+  
+  if [ -z "$1" ]; then
+    echo "Enter commit message:"
+    read commit_message
+  else
+    commit_message="$*"
+  fi
+  
+  git add -A
+  echo "Staged all changes"
+  
+  git commit -m "$commit_message"
+  echo "Committed changes"
+  
+  current_branch=$(git branch --show-current)
+  git push origin "$current_branch"
+  echo "Pushed to origin/$current_branch"
+}
+
+gitquickpush() {
+  timestamp=$(date '+%Y-%m-%d %H:%M:%S')
+  gitpush "[ng-anhhtuann] update: $timestamp"
+}
