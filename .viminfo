@@ -5,14 +5,14 @@
 |1,4
 
 # Value of 'encoding' when this file was written
-*encoding=utf-8
+*encoding=latin1
 
 
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
 :q
-|2,0,1767028351,,"q"
+|2,0,1770138377,,"q"
 :wq
 |2,0,1744395594,,"wq"
 :q~
@@ -34,230 +34,242 @@
 |3,1,36,0,1,0,1744395527,"i"
 
 # File marks:
-'0  1  0  ~/Documents/Projects/freelance/stashio/stash-be/.git/COMMIT_EDITMSG
-|4,48,1,0,1767028351,"~/Documents/Projects/freelance/stashio/stash-be/.git/COMMIT_EDITMSG"
-'1  1  0  ~/Documents/Projects/freelance/stashio/stash-be/.git/COMMIT_EDITMSG
-|4,49,1,0,1763407710,"~/Documents/Projects/freelance/stashio/stash-be/.git/COMMIT_EDITMSG"
-'2  1  0  ~/Documents/Projects/freelance/stashio/stash-be/.git/COMMIT_EDITMSG
-|4,50,1,0,1762195361,"~/Documents/Projects/freelance/stashio/stash-be/.git/COMMIT_EDITMSG"
-'3  1  0  ~/Documents/Projects/freelance/stashio/stash-be/.git/COMMIT_EDITMSG
-|4,51,1,0,1762195361,"~/Documents/Projects/freelance/stashio/stash-be/.git/COMMIT_EDITMSG"
-'4  1  0  ~/Documents/Projects/freelance/stashio/stash-be/.git/COMMIT_EDITMSG
-|4,52,1,0,1761416111,"~/Documents/Projects/freelance/stashio/stash-be/.git/COMMIT_EDITMSG"
-'5  1  0  ~/Documents/Projects/freelance/stashio/stash-be/.git/COMMIT_EDITMSG
-|4,53,1,0,1761416111,"~/Documents/Projects/freelance/stashio/stash-be/.git/COMMIT_EDITMSG"
-'6  1  0  ~/Documents/Projects/freelance/stashio/stash-be/.git/COMMIT_EDITMSG
-|4,54,1,0,1761416111,"~/Documents/Projects/freelance/stashio/stash-be/.git/COMMIT_EDITMSG"
-'7  1  0  ~/Documents/Projects/freelance/stashio/stash-be/.git/COMMIT_EDITMSG
-|4,55,1,0,1761416111,"~/Documents/Projects/freelance/stashio/stash-be/.git/COMMIT_EDITMSG"
-'8  1  0  ~/Documents/Projects/freelance/stashio/stash-be/.git/COMMIT_EDITMSG
-|4,56,1,0,1761415580,"~/Documents/Projects/freelance/stashio/stash-be/.git/COMMIT_EDITMSG"
-'9  1  0  ~/Documents/Projects/freelance/stashio/stash-be/.git/COMMIT_EDITMSG
-|4,57,1,0,1761415580,"~/Documents/Projects/freelance/stashio/stash-be/.git/COMMIT_EDITMSG"
+'0  1  0  ~/Documents/Projects/service/portfolio/.git/COMMIT_EDITMSG
+|4,48,1,0,1770138377,"~/Documents/Projects/service/portfolio/.git/COMMIT_EDITMSG"
+'1  1  0  ~/Documents/Projects/service/portfolio/.git/COMMIT_EDITMSG
+|4,49,1,0,1770138253,"~/Documents/Projects/service/portfolio/.git/COMMIT_EDITMSG"
+'2  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
+|4,50,1,0,1769965459,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
+'3  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
+|4,51,1,0,1769965433,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
+'4  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
+|4,52,1,0,1769965411,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
+'5  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
+|4,53,1,0,1769965411,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
+'6  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
+|4,54,1,0,1769965396,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
+'7  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
+|4,55,1,0,1769965396,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
+'8  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
+|4,56,1,0,1769965396,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
+'9  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
+|4,57,1,0,1769965396,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
 
 # Jumplist (newest first):
--'  1  0  ~/Documents/Projects/freelance/stashio/stash-be/.git/COMMIT_EDITMSG
-|4,39,1,0,1767028351,"~/Documents/Projects/freelance/stashio/stash-be/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/stashio/stash-be/.git/COMMIT_EDITMSG
-|4,39,1,0,1763407710,"~/Documents/Projects/freelance/stashio/stash-be/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/stashio/stash-be/.git/COMMIT_EDITMSG
-|4,39,1,0,1762195361,"~/Documents/Projects/freelance/stashio/stash-be/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/stashio/stash-be/.git/COMMIT_EDITMSG
-|4,39,1,0,1761416111,"~/Documents/Projects/freelance/stashio/stash-be/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/stashio/stash-be/.git/COMMIT_EDITMSG
-|4,39,1,0,1761415580,"~/Documents/Projects/freelance/stashio/stash-be/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/where/backend/be/.git/COMMIT_EDITMSG
-|4,39,1,0,1757351845,"~/Documents/Projects/freelance/where/backend/be/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/where/backend/be/.git/COMMIT_EDITMSG
-|4,39,1,0,1757351845,"~/Documents/Projects/freelance/where/backend/be/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/where/backend/be/.git/COMMIT_EDITMSG
-|4,39,1,0,1757351845,"~/Documents/Projects/freelance/where/backend/be/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/where/backend/be/.git/COMMIT_EDITMSG
-|4,39,1,0,1757351845,"~/Documents/Projects/freelance/where/backend/be/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/where/backend/be/.git/COMMIT_EDITMSG
-|4,39,1,0,1757351845,"~/Documents/Projects/freelance/where/backend/be/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/where/backend/be/.git/COMMIT_EDITMSG
-|4,39,1,0,1757351845,"~/Documents/Projects/freelance/where/backend/be/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/where/backend/be/.git/COMMIT_EDITMSG
-|4,39,1,0,1757351845,"~/Documents/Projects/freelance/where/backend/be/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/where/backend/be/.git/COMMIT_EDITMSG
-|4,39,1,0,1757351845,"~/Documents/Projects/freelance/where/backend/be/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/where/backend/be/.git/COMMIT_EDITMSG
-|4,39,1,0,1757351845,"~/Documents/Projects/freelance/where/backend/be/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/where/backend/be/.git/COMMIT_EDITMSG
-|4,39,1,0,1757351845,"~/Documents/Projects/freelance/where/backend/be/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/where/backend/be/.git/COMMIT_EDITMSG
-|4,39,1,0,1757351845,"~/Documents/Projects/freelance/where/backend/be/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/where/backend/be/.git/COMMIT_EDITMSG
-|4,39,1,0,1757351845,"~/Documents/Projects/freelance/where/backend/be/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/where/backend/be/.git/COMMIT_EDITMSG
-|4,39,1,0,1757351845,"~/Documents/Projects/freelance/where/backend/be/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/where/backend/be/.git/COMMIT_EDITMSG
-|4,39,1,0,1757351845,"~/Documents/Projects/freelance/where/backend/be/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/where/backend/be/.git/COMMIT_EDITMSG
-|4,39,1,0,1757351845,"~/Documents/Projects/freelance/where/backend/be/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/where/backend/be/.git/COMMIT_EDITMSG
-|4,39,1,0,1757351845,"~/Documents/Projects/freelance/where/backend/be/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/where/backend/be/.git/COMMIT_EDITMSG
-|4,39,1,0,1757351845,"~/Documents/Projects/freelance/where/backend/be/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/where/backend/be/.git/COMMIT_EDITMSG
-|4,39,1,0,1757351845,"~/Documents/Projects/freelance/where/backend/be/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/where/backend/be/.git/COMMIT_EDITMSG
-|4,39,1,0,1757351845,"~/Documents/Projects/freelance/where/backend/be/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/where/backend/be/.git/COMMIT_EDITMSG
-|4,39,1,0,1757351845,"~/Documents/Projects/freelance/where/backend/be/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/where/backend/be/.git/COMMIT_EDITMSG
-|4,39,1,0,1757351845,"~/Documents/Projects/freelance/where/backend/be/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/where/backend/be/.git/COMMIT_EDITMSG
-|4,39,1,0,1757351845,"~/Documents/Projects/freelance/where/backend/be/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/where/backend/be/.git/COMMIT_EDITMSG
-|4,39,1,0,1757351845,"~/Documents/Projects/freelance/where/backend/be/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/where/backend/be/.git/COMMIT_EDITMSG
-|4,39,1,0,1757351845,"~/Documents/Projects/freelance/where/backend/be/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/where/backend/be/.git/COMMIT_EDITMSG
-|4,39,1,0,1757351845,"~/Documents/Projects/freelance/where/backend/be/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/where/backend/be/.git/COMMIT_EDITMSG
-|4,39,1,0,1757351845,"~/Documents/Projects/freelance/where/backend/be/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/where/backend/be/.git/COMMIT_EDITMSG
-|4,39,1,0,1757351845,"~/Documents/Projects/freelance/where/backend/be/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/where/backend/be/.git/COMMIT_EDITMSG
-|4,39,1,0,1757351845,"~/Documents/Projects/freelance/where/backend/be/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/where/backend/be/.git/COMMIT_EDITMSG
-|4,39,1,0,1757351845,"~/Documents/Projects/freelance/where/backend/be/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/where/backend/be/.git/COMMIT_EDITMSG
-|4,39,1,0,1757351845,"~/Documents/Projects/freelance/where/backend/be/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/where/backend/be/.git/COMMIT_EDITMSG
-|4,39,1,0,1757351845,"~/Documents/Projects/freelance/where/backend/be/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/where/backend/be/.git/COMMIT_EDITMSG
-|4,39,1,0,1757351845,"~/Documents/Projects/freelance/where/backend/be/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG
-|4,39,1,0,1749246419,"~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG
-|4,39,1,0,1749246419,"~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG
-|4,39,1,0,1749246419,"~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG
-|4,39,1,0,1749246419,"~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG
-|4,39,1,0,1749246419,"~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG
-|4,39,1,0,1749246419,"~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG
-|4,39,1,0,1749246419,"~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG
-|4,39,1,0,1749246419,"~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG
-|4,39,1,0,1749246419,"~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG
-|4,39,1,0,1749246419,"~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG
-|4,39,1,0,1749246419,"~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG
-|4,39,1,0,1749246419,"~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG
-|4,39,1,0,1749246419,"~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG
-|4,39,1,0,1749246419,"~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG
-|4,39,1,0,1749246419,"~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG
-|4,39,1,0,1749246419,"~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG
-|4,39,1,0,1749246419,"~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG
-|4,39,1,0,1749246419,"~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG
-|4,39,1,0,1749246419,"~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG
-|4,39,1,0,1749246419,"~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG
-|4,39,1,0,1749246419,"~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG
-|4,39,1,0,1749246419,"~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG
-|4,39,1,0,1749246419,"~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG
-|4,39,1,0,1749246419,"~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG
-|4,39,1,0,1749246419,"~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG
-|4,39,1,0,1749246419,"~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG
-|4,39,1,0,1749246419,"~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG
-|4,39,1,0,1749246419,"~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG
-|4,39,1,0,1749246419,"~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG
-|4,39,1,0,1749246419,"~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG
-|4,39,1,0,1749246419,"~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG
-|4,39,1,0,1749246419,"~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG
-|4,39,1,0,1749246419,"~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG
-|4,39,1,0,1749246419,"~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG
-|4,39,1,0,1749246419,"~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG
-|4,39,1,0,1749246419,"~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG
-|4,39,1,0,1749246419,"~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG
-|4,39,1,0,1749246419,"~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG
-|4,39,1,0,1749246419,"~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG
-|4,39,1,0,1749246419,"~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG
-|4,39,1,0,1749246419,"~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG
-|4,39,1,0,1749246419,"~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG
-|4,39,1,0,1749246419,"~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG
-|4,39,1,0,1749246419,"~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG
-|4,39,1,0,1749246419,"~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG
-|4,39,1,0,1749246419,"~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG
-|4,39,1,0,1749246419,"~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG
-|4,39,1,0,1749246419,"~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG
-|4,39,1,0,1749246419,"~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG
-|4,39,1,0,1749246419,"~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG
-|4,39,1,0,1749246419,"~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG
-|4,39,1,0,1749246419,"~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG
-|4,39,1,0,1749246419,"~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG
-|4,39,1,0,1749246419,"~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG
-|4,39,1,0,1749246419,"~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG
-|4,39,1,0,1749246419,"~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG
-|4,39,1,0,1749246419,"~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG
-|4,39,1,0,1749246419,"~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG
-|4,39,1,0,1749246419,"~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG
-|4,39,1,0,1749246419,"~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG
-|4,39,1,0,1749246419,"~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG
-|4,39,1,0,1749246419,"~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG
-|4,39,1,0,1749246419,"~/Documents/Projects/freelance/WEB_final/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/service/portfolio/.git/COMMIT_EDITMSG
+|4,39,1,0,1770138377,"~/Documents/Projects/service/portfolio/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/service/portfolio/.git/COMMIT_EDITMSG
+|4,39,1,0,1770138253,"~/Documents/Projects/service/portfolio/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965459,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965459,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965459,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965459,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965433,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965433,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965433,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965433,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965411,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965411,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965411,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965411,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965396,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965396,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965396,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965396,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965378,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965378,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965378,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965378,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965365,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965365,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965365,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965365,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965350,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965350,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965350,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965350,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965330,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965330,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965330,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965330,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965309,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965309,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965309,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965309,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
+|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
 
 # History of marks within files (newest to oldest):
+
+> ~/Documents/Projects/service/portfolio/.git/COMMIT_EDITMSG
+	*	1770138374	0
+	"	1	0
+
+> ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
+	*	1769965457	0
+	"	1	0
+
+> ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
+	*	1769965274	0
+	"	1	0
 
 > ~/Documents/Projects/freelance/stashio/stash-be/.git/COMMIT_EDITMSG
 	*	1767028347	0
@@ -307,10 +319,6 @@
 
 > ~/Documents/Projects/service/upskills/kafkaex/.git/COMMIT_EDITMSG
 	*	1741011022	0
-	"	1	0
-
-> ~/Documents/Projects/service/portfolio/.git/COMMIT_EDITMSG
-	*	1740504227	0
 	"	1	0
 
 > ~/Documents/Projects/service/upskills/RabbitMQ/.git/COMMIT_EDITMSG
