@@ -30,6 +30,8 @@ alias gitrm='git remote -v'
 alias gitchangeremote='git remote set-url origin'
 alias gitpf='git push --force-with-lease'
 alias gitp='git push'
+alias gitca='git commit --amend'
+alias gitcad='git commit --amend --date'
 
 alias sourcezsh='source ~/.zshrc'
 

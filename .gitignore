@@ -45,6 +45,7 @@ Library/
 .zsh_sessions
 .gitconfig
 .zsh_history
+.viminfo
 # System files
 .DS_Store
 .DS_Store?
