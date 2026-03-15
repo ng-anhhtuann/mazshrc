@@ -5,16 +5,18 @@
 |1,4
 
 # Value of 'encoding' when this file was written
-*encoding=latin1
+*encoding=utf-8
 
 
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:q
+|2,0,1772907595,,"q"
+:Q
+|2,0,1772896707,,"Q"
 :wq
 |2,0,1770138512,,"wq"
-:q
-|2,0,1770138377,,"q"
 :q~
 |2,0,1738865321,,"q~"
 :1
@@ -34,230 +36,237 @@
 |3,1,36,0,1,0,1744395527,"i"
 
 # File marks:
-'0  1  38  ~/Documents/Projects/service/portfolio/.git/COMMIT_EDITMSG
-|4,48,1,38,1770138512,"~/Documents/Projects/service/portfolio/.git/COMMIT_EDITMSG"
-'1  1  0  ~/Documents/Projects/service/portfolio/.git/COMMIT_EDITMSG
-|4,49,1,0,1770138377,"~/Documents/Projects/service/portfolio/.git/COMMIT_EDITMSG"
-'2  1  0  ~/Documents/Projects/service/portfolio/.git/COMMIT_EDITMSG
-|4,50,1,0,1770138253,"~/Documents/Projects/service/portfolio/.git/COMMIT_EDITMSG"
-'3  1  0  ~/Documents/Projects/service/portfolio/.git/COMMIT_EDITMSG
-|4,51,1,0,1770138253,"~/Documents/Projects/service/portfolio/.git/COMMIT_EDITMSG"
-'4  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,52,1,0,1769965459,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
-'5  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,53,1,0,1769965433,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
-'6  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,54,1,0,1769965411,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
-'7  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,55,1,0,1769965411,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
-'8  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,56,1,0,1769965396,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
-'9  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,57,1,0,1769965396,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
+'0  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,48,1,0,1772907595,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+'1  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,49,1,0,1772907552,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+'2  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,50,1,0,1772907509,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+'3  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,51,1,0,1772907509,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+'4  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,52,1,0,1772907453,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+'5  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,53,1,0,1772907453,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+'6  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,54,1,0,1772907453,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+'7  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,55,1,0,1772907453,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+'8  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,56,1,0,1772907384,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+'9  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,57,1,0,1772907384,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
 
 # Jumplist (newest first):
--'  1  38  ~/Documents/Projects/service/portfolio/.git/COMMIT_EDITMSG
-|4,39,1,38,1770138512,"~/Documents/Projects/service/portfolio/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/service/portfolio/.git/COMMIT_EDITMSG
-|4,39,1,0,1770138377,"~/Documents/Projects/service/portfolio/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/service/portfolio/.git/COMMIT_EDITMSG
-|4,39,1,0,1770138253,"~/Documents/Projects/service/portfolio/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965459,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965459,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965459,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965459,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965459,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965459,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965459,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965459,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965433,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965433,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965433,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965433,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965433,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965433,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965433,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965433,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965411,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965411,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965411,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965411,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965411,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965411,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965411,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965411,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965396,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965396,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965396,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965396,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965396,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965396,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965396,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965396,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965378,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965378,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965378,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965378,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965378,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965378,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965378,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965378,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965365,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965365,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965365,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965365,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965365,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965365,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965365,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965365,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965350,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965350,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965350,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965350,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965350,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965350,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965350,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965350,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965330,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965330,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965330,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965330,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965330,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965330,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965330,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965330,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965309,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965309,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965309,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965309,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965309,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965309,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965309,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965309,"~/Documents/Projects/freelance/webchat/backend-mini-webapp/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
--'  1  0  ~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG
-|4,39,1,0,1769965275,"~/Documents/Projects/freelance/webchat/frontend-mini-webchat/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,1,0,1772907595,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,1,0,1772907552,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,1,0,1772907509,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,1,0,1772907453,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,1,0,1772907384,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,1,0,1772907340,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,1,0,1772907292,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,1,0,1772907255,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,1,0,1772907194,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,1,0,1772907105,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,1,0,1772907057,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,1,0,1772907016,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,1,0,1772906954,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,1,0,1772906785,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,1,0,1772906718,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,1,0,1772906658,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,1,0,1772906619,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,1,0,1772906566,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,1,0,1772906498,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,1,0,1772906424,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,1,0,1772906383,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,1,0,1772906336,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,1,0,1772906292,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,1,0,1772906242,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,1,0,1772906215,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,1,0,1772906146,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,1,0,1772906089,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,1,0,1772906059,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,1,0,1772906027,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,1,0,1772905989,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,1,0,1772905952,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,1,0,1772905879,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,1,0,1772899244,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,1,0,1772899190,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,1,0,1772899152,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,1,0,1772899115,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,1,0,1772899044,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,1,0,1772898987,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,1,0,1772898943,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,1,0,1772898901,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,1,0,1772898861,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,1,0,1772898793,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,1,0,1772898732,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,1,0,1772898706,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,1,0,1772898646,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,1,0,1772898566,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,1,0,1772898444,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,1,0,1772898361,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,1,0,1772898278,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,1,0,1772898237,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,1,0,1772898197,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,1,0,1772898131,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,1,0,1772898100,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,1,0,1772898029,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,1,0,1772897982,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,1,0,1772897509,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,1,0,1772897453,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,1,0,1772897397,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,1,0,1772897367,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,1,0,1772897293,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,1,0,1772897233,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,1,0,1772897173,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,1,0,1772897128,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,1,0,1772897064,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  14  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,14,0,1772896937,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  14  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,14,0,1772896937,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  14  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,14,0,1772896937,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  14  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,14,0,1772896937,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  14  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,14,0,1772896937,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  14  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,14,0,1772896937,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  14  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,14,0,1772896937,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  14  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,14,0,1772896937,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  14  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,14,0,1772896937,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  14  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,14,0,1772896937,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  14  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,14,0,1772896937,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  14  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,14,0,1772896937,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  14  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,14,0,1772896937,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  14  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,14,0,1772896937,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  14  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,14,0,1772896937,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  14  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,14,0,1772896937,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  14  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,14,0,1772896937,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  14  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,14,0,1772896937,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  14  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,14,0,1772896937,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  14  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,14,0,1772896937,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  14  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,14,0,1772896937,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  14  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,14,0,1772896937,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  14  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,14,0,1772896937,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  14  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,14,0,1772896937,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  14  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,14,0,1772896937,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  14  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,14,0,1772896937,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  14  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,14,0,1772896937,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  14  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,14,0,1772896937,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  14  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,14,0,1772896937,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  14  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,14,0,1772896937,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  14  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,14,0,1772896937,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  14  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,14,0,1772896937,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  14  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,14,0,1772896937,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  14  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,14,0,1772896937,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  14  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,14,0,1772896937,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
+-'  14  0  ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+|4,39,14,0,1772896937,"~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG"
 
 # History of marks within files (newest to oldest):
+
+> ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
+	*	1772907594	0
+	"	1	0
+	^	1	1
+	.	1	0
+	+	1	0
 
 > ~/Documents/Projects/service/portfolio/.git/COMMIT_EDITMSG
 	*	1770138512	0
@@ -293,13 +302,6 @@
 > ~/Documents/Projects/freelance/where/be/.git/COMMIT_EDITMSG
 	*	1747339230	0
 	"	1	0
-
-> ~/Documents/Resource/leetcode-solutions/.git/COMMIT_EDITMSG
-	*	1744396894	0
-	"	1	0
-	^	1	1
-	.	1	0
-	+	1	0
 
 > ~/Documents/Resource/leetcode-solutions/.git/rebase-merge/git-rebase-todo
 	*	1744395590	0
