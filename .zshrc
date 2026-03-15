@@ -44,6 +44,8 @@ alias killpid='sudo kill -9'
 alias whichzombie='ps aux | grep Z'
 alias whichzombiemore='ps -el | grep Z'
 
+alias getdevicesonnetwork='sudo nmap -sn 192.168.1.0/24'
+
 gitpush() {
   if ! git rev-parse --git-dir > /dev/null 2>&1; then
     echo "Error detect repository"
