@@ -83,3 +83,29 @@ gitquickpush() {
   timestamp=$(date '+%Y-%m-%d %H:%M:%S')
   gitpush "[ng-anhhtuann] update: $timestamp"
 }
+
+function _welcome() {
+  local start_date="2022-06-20"
+  local start_date_corp="2025-09-15"
+  local start_sec=$(date -j -f "%Y-%m-%d" "$start_date" "+%s")
+  local start_sec_nab=$(date -j -f "%Y-%m-%d" "$start_date_corp" "+%s")
+  local now_sec=$(date +%s)
+  local total_days=$(( (now_sec - start_sec) / 86400 ))
+  local total_days_nab=$(( (now_sec - start_sec_nab) / 86400 ))
+
+  local years=$(( total_days / 365 ))
+  local years_nab=$(( total_days_nab / 365 ))
+  local remaining=$(( total_days % 365 ))
+  local remaining_nab=$(( total_days_nab % 365 ))
+
+  local time_str=$(date "+%I:%M %p")
+  local date_str=$(date "+%A, %d %B %Y")
+
+  echo ""
+  echo "\033[1;35mhi morphibius, welcome back!\033[0m"
+  echo "\033[1;36m${time_str} on ${date_str}\033[0m"
+  echo "\033[1;33mday ${total_days} (${years} years, ${remaining} days) as a swe\033[0m"
+  echo "\033[1;33mday ${total_days_nab} (${years_nab} years, ${remaining_nab} days) at NAB\033[0m"
+  echo ""
+}
+_welcome
