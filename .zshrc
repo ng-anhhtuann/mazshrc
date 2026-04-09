@@ -1,6 +1,7 @@
 export PATH="/opt/homebrew/bin:$PATH"
 export PATH="/opt/homebrew/bin/python3.10:$PATH"
 export PATH="/bin:/usr/bin:/usr/local/bin:$PATH"
+export PATH="$HOME/Library/Python/3.9/bin:$PATH"
 
 # pnpm
 export PNPM_HOME="/Users/morphibius/Library/pnpm"
@@ -45,6 +46,81 @@ alias whichzombie='ps aux | grep Z'
 alias whichzombiemore='ps -el | grep Z'
 
 alias getdevicesonnetwork='sudo nmap -sn 192.168.1.0/24'
+
+alias pip='pip3'
+
+alias tts='edge-tts'
+alias ttslistvoice='edge-tts --list-voices'
+ttsgenmediasub() {
+  local text="$1"
+  local voice="$2"
+  local basename="$3"
+
+  if [[ -z "$text" || -z "$voice" || -z "$basename" ]]; then
+    echo "Usage: ttsgenmediasub \"text\" \"voice\" \"output_basename\""
+    return 1
+  fi
+
+  edge-tts --voice "$voice" \
+    --text "$text" \
+    --write-media "${basename}.mp3" \
+    --write-subtitles "${basename}.srt"
+}
+ttsgenmediasubslower() {
+  local text="$1"
+  local voice="$2"
+  local basename="$3"
+  local rate="$4"
+
+  if [[ -z "$text" || -z "$voice" || -z "$basename" || -z "$rate" ]]; then
+    echo "Usage: ttsgenmediasubslower \"text\" \"voice\" \"output_basename\" \"rate_percent_without_%\""
+    echo "Example: ttsgenmediasubslower \"hello guys\" \"vi-VN-HoaiMyNeural\" \"hello\" \"-30\""
+    return 1
+  fi
+
+  edge-tts --rate "${rate}%" \
+    --voice "$voice" \
+    --text "$text" \
+    --write-media "${basename}.mp3" \
+    --write-subtitles "${basename}.srt"
+}
+ttsgenmediasubdeeper() {
+  local text="$1"
+  local voice="$2"
+  local basename="$3"
+  local pitch="$4"
+
+  if [[ -z "$text" || -z "$voice" || -z "$basename" || -z "$pitch" ]]; then
+    echo "Usage: ttsgenmediasubdeeper \"text\" \"voice\" \"output_basename\" \"pitch_hz_without_Hz\""
+    echo "Example: ttsgenmediasubdeeper \"hello guys\" \"vi-VN-HoaiMyNeural\" \"hello\" \"-20\""
+    return 1
+  fi
+
+  edge-tts --pitch="${pitch}Hz" \
+    --voice "$voice" \
+    --text "$text" \
+    --write-media "${basename}.mp3" \
+    --write-subtitles "${basename}.srt"
+}
+ttsgenmediasubquieter() {
+  local text="$1"
+  local voice="$2"
+  local basename="$3"
+  local volume="$4"
+
+  if [[ -z "$text" || -z "$voice" || -z "$basename" || -z "$volume" ]]; then
+    echo "Usage: ttsgenmediasubquieter \"text\" \"voice\" \"output_basename\" \"volume_percent_without_%\""
+    echo "Example: ttsgenmediasubquieter \"hello guys\" \"vi-VN-HoaiMyNeural\" \"hello\" \"-20\""
+    return 1
+  fi
+
+  edge-tts --volume="${volume}%" \
+    --voice "$voice" \
+    --text "$text" \
+    --write-media "${basename}.mp3" \
+    --write-subtitles "${basename}.srt"
+}
+
 
 gitpush() {
   if ! git rev-parse --git-dir > /dev/null 2>&1; then
