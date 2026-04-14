@@ -49,6 +49,16 @@ alias getdevicesonnetwork='sudo nmap -sn 192.168.1.0/24'
 
 alias pip='pip3'
 
+alias hb='brew'
+alias hbi='brew install'
+alias hbl='brew list'
+alias hbr='brew remove'
+alias hbs='brew search'
+alias hbp='brew info'
+alias hbu='brew update'
+alias hbup='brew upgrade'
+alias hbc='brew cleanup'
+
 alias tts='edge-tts'
 alias ttslistvoice='edge-tts --list-voices'
 ttsgenmediasub() {
