@@ -59,6 +59,11 @@ alias hbu='brew update'
 alias hbup='brew upgrade'
 alias hbc='brew cleanup'
 
+alias nosleep='caffeinate'
+alias nosleepidle='caffeinate -i'
+alias nosleepdisplay='caffeinate -d'
+alias nosleepfull='caffeinate -dims'
+
 alias tts='edge-tts'
 alias ttslistvoice='edge-tts --list-voices'
 ttsgenmediasub() {
