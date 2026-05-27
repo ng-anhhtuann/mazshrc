@@ -4,6 +4,9 @@ export PATH="/bin:/usr/bin:/usr/local/bin:$PATH"
 export PATH="$HOME/Library/Python/3.9/bin:$PATH"
 export LANG=en_US.UTF-8
 export LC_ALL=en_US.UTF-8
+export PATH="/opt/homebrew/opt/ruby/bin:$PATH"
+export ANDROID_HOME=$HOME/Library/Android/sdk
+export PATH=$PATH:$ANDROID_HOME/platform-tools:$ANDROID_HOME/emulator
 
 # pnpm
 export PNPM_HOME="/Users/morphibius/Library/pnpm"
@@ -294,3 +297,4 @@ function _welcome() {
   echo ""
 }
 _welcome
+
