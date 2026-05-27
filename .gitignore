@@ -66,3 +66,8 @@ $RECYCLE.BIN/
 .cocoapods/
 .gem/
 .swiftpm/
+.copilot/
+.ghcp-appmod/
+.net/
+.vscode-shared/
+.yarnrc
