@@ -2,6 +2,8 @@ export PATH="/opt/homebrew/bin:$PATH"
 export PATH="/opt/homebrew/bin/python3.10:$PATH"
 export PATH="/bin:/usr/bin:/usr/local/bin:$PATH"
 export PATH="$HOME/Library/Python/3.9/bin:$PATH"
+export LANG=en_US.UTF-8
+export LC_ALL=en_US.UTF-8
 
 # pnpm
 export PNPM_HOME="/Users/morphibius/Library/pnpm"
