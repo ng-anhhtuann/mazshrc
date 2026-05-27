@@ -62,3 +62,7 @@ $RECYCLE.BIN/
 .AppleDouble
 .AppleVolume
 .viminfo
+.bundle/
+.cocoapods/
+.gem/
+.swiftpm/
