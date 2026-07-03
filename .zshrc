@@ -69,6 +69,8 @@ alias nosleepidle='caffeinate -i'
 alias nosleepdisplay='caffeinate -d'
 alias nosleepfull='caffeinate -dims'
 
+alias ollamaliverun='OLLAMA_FLASH_ATTENTION="1" OLLAMA_KV_CACHE_TYPE="q8_0" /opt/homebrew/opt/ollama/bin/ollama serve'
+
 alias tts='edge-tts'
 alias ttslistvoice='edge-tts --list-voices'
 ttsgenmediasub() {
